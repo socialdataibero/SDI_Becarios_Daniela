@@ -1,0 +1,3 @@
+[submodule "educaIA-Django-Vite"]
+	path = educaIA-Django-Vite
+	url = https://github.com/Danym2407/educaIA-Django-Vite.git
